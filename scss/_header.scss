@@ -35,6 +35,12 @@
         font-size: 24px;
         font-weight: 400;
         line-height: 36px;
+        background-color: black;
+        color: #fff;
+        &:hover{
+            background-color: #fff;
+            color: black;
+        }
     }
 
 }
